@@ -1,0 +1,17 @@
+system/lib/egl/libEGL_mali.so
+system/lib/egl/libGLESv1_CM_mali.so
+system/lib/egl/libGLESv2_mali.so
+system/lib/libion.so
+system/lib/libMali.so
+system/lib/libTVOut.so
+system/lib/libUMP.so
+system/lib/libcec.so
+system/lib/libddc.so
+system/lib/libedid.so
+system/lib/libfimc.so
+system/lib/libfimg.so
+system/lib/libhdmi.so
+system/lib/libhdmiclient.so
+system/lib/libhwconverter.so
+system/lib/libhwjpeg.so
+system/vendor/firmware/mfc_fw.bin
